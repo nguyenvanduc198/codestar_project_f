@@ -1,0 +1,10 @@
+#mainNav.navbar-dark .navbar-collapse .navbar-sidenav > .nav-item > .active {
+  color: #adb5bd;
+}
+.invalid {
+  color: red;
+}
+.image-custom {
+  width: 50px;
+  height: 50px;
+}
